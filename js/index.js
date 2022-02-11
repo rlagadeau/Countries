@@ -1,6 +1,6 @@
 
 let method = "GET";
-let url = "https://restcountries.eu/rest/v2/all";
+let url = "https://restcountries.com/v2/all";
 let asynchronous = true;
 let label = "Content-type";
 let labelValue = "application/x-www-form-urlencoded";
